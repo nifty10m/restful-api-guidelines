@@ -8,6 +8,12 @@ let people discuss changes in pull request.
 Pull requests should only be merged after all discussions have been
 concluded and at least 2 reviewers gave their approvals.
 
+== Include generated docs to pull request
+
+At the moment there is not automated process for generating the required
+HTML from the asciidoctor files, so run the `build.sh` before creating a PR
+and add the generated index.html file.
+
 == Changelog for major changes
 
 When your pull request does major changes, please also add an entry to
