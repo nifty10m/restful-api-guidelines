@@ -58,7 +58,7 @@ Styles and the Design of Network-Based Software Architectures]
 [[api-as-a-product]]
 == API as a Product
 
-10M is no a product company, so we are not selling our APIs.
+10M is not a product company, so we are not selling our APIs.
 But as our customers are changing their architecture to change into a
 software driven company APIs are getting more important for a wider
 scope.
