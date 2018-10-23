@@ -50,7 +50,7 @@ Please see the following rules for detailed functional naming patterns:
 * <<213>>
 
 [#129]
-== {MUST} Use lowercase separate words for Path Segments
+== {MUST} Use lowercase separate words with hyphens for Path Segments
 
 Example:
 
